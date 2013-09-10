@@ -6,3 +6,4 @@ hello world1
 hello india
 
 hello world! test for master
+ test from aws
